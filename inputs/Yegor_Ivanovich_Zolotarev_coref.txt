@@ -1,0 +1,155 @@
+[1]Yegor Ivanovich Zolotarev (Russian: Его́р  Ива́нович Золотарёв) (31 March 1847, Saint Petersburg – 19 July 1878, Saint Petersburg) was a Russian mathematician.
+
+
+
+[2]== Biography ==
+Yegor Ivanovich Zolotarev  was born  as a son of Agafya Izotovna Zolotareva and the merchant Ivan Vasilevich Zolotarev in Saint Petersburg, Imperial Russia. 
+
+[3]In 1857 Yegor Ivanovich Zolotarev began to study at the fifth St Petersburg gymnasium, a school which centred on mathematics and natural science.
+[4]Yegor Ivanovich Zolotarev finished it with the silver medal in 1863.
+[5]In the same year Yegor Ivanovich Zolotarev was allowed to be an auditor at the physico-mathematical faculty of St Petersburg university.
+
+[6]Yegor Ivanovich Zolotarev had not been able to become a student before 1864 because Yegor Ivanovich Zolotarev was too young.
+[7]Among Yegor Ivanovich Zolotarev's academic teachers were Somov, Chebyshev and Aleksandr Korkin, with whom Yegor Ivanovich Zolotarev would have a tight scientific friendship.
+
+[8]In November 1867 Yegor Ivanovich Zolotarev defended Yegor Ivanovich Zolotarev's Kandidat thesis “About the Integration of Gyroscope Equations”, after 10 months there followed Yegor Ivanovich Zolotarev's thesis pro venia legendi About one question on Minima.
+[9]With this work Yegor Ivanovich Zolotarev was given the right to teach as a private lecturer at St Petersburg university.
+
+[10]Yegor Ivanovich Zolotarev first lectured on differential calculus to science students (until summer 1871), later integral calculus and analysis to beginners of mathematics.
+[11]Except for a short pause Yegor Ivanovich Zolotarev lectured on elliptic functions to students of higher semesters during Yegor Ivanovich Zolotarev's whole job as lecturer and professor.
+
+[12]In December 1869, Yegor Ivanovich Zolotarev defended Yegor Ivanovich Zolotarev's master's thesis “About the Solution of the Indefinite Equation of Third Degree x³ + Ay³ + A²z³ - 3Axyz = 1”.
+
+[13]Yegor Ivanovich Zolotarev took Yegor Ivanovich Zolotarev's first trip abroad in 1872 and visited Berlin and Heidelberg.
+[14]In Berlin Yegor Ivanovich Zolotarev attended Weierstrass' "theory of analytic functions", in Heidelberg Koenigsberger's.
+
+[15]In 1874, Yegor Ivanovich Zolotarev become a member of the university staff as a lecturer and in
+the same year Yegor Ivanovich Zolotarev defended Yegor Ivanovich Zolotarev's doctoral thesis “Theory of integer Complex Numbers with an Application to Integral Calculus”.
+[16]The algorithm Yegor Ivanovich Zolotarev proved there
+was created by Chebyshev and that algorithm allowed to see whether integral of the form
+
+  
+    
+      
+        ∫
+        
+          
+            
+              x
+              +
+              A
+            
+            
+              
+                x
+                
+                  4
+                
+              
+              +
+              a
+              
+                x
+                
+                  3
+                
+              
+              +
+              b
+              
+                x
+                
+                  2
+                
+              
+              +
+              c
+              x
+              +
+              d
+            
+          
+        
+        
+        d
+        x
+      
+    
+    {\displaystyle \int {\frac {x+A}{\sqrt {x^{4}+ax^{3}+bx^{2}+cx+d}}}\,dx}
+  was elementary, in this case representable in logarithms.
+[17]This was a question Chebyshev had been interested in since the beginning of his research.
+
+[18]Starting at the beginning of the winter semester 1876 Yegor Ivanovich Zolotarev was appointed extraordinary professor, and after the death of academician Somov Yegor Ivanovich Zolotarev became his successor as an adjunct of the Academy of Sciences.
+
+[19]Egor Ivanovich Zolotarev's steep career ended abruptly with his early death.
+[20]He was on his way to his dacha when he was run over by a train in the Tsarskoe Selo station.
+[21]On 19 July 1878 he died from blood poisoning.
+
+[22]Yegor Ivanovich is not to be confused with the probabilist Vladimir Mikhaelovich Zolotarev, Kolmogorov's disciple, who worked on stable distributions with well known results on their parametrization.
+
+
+
+[23]== Bibliography ==
+Yegor Ivanovich Zolotarev (1872).
+[24]"Nouvelle démonstration de la loi de réciprocité de Legendre" (PDF).
+[25]Nouvelles Annales de Mathématiques.
+[26]2e série. 11: 354–362.
+Yegor Ivanovich Zolotarev (1872).
+[24]"Nouvelle démonstration de la loi de réciprocité de Legendre" (PDF).
+[25]Nouvelles Annales de Mathématiques.
+[26]2e série. 11: 354–362.
+Zolotareff G. (1872).
+[27]"Sur la méthode d'intégration de M. Tchébychef".
+[28]Mathematische Annalen. 5 (4): 560–580.
+[29]doi:10.1007/BF01442910.
+[30]S2CID 123629827.
+
+[31]Korkine A., Yegor Ivanovich Zolotarev (1872).
+[27]"Sur la méthode d'intégration de M. Tchébychef".
+[28]Mathematische Annalen. 5 (4): 560–580.
+[29]doi:10.1007/BF01442910.
+[30]S2CID 123629827.
+
+[31]Korkine A., Zolotareff G. (1872).
+[32]"Sur les formes quadratiques positives quaternaires".
+[33]Mathematische Annalen. 5 (4): 581–583.
+[34]doi:10.1007/BF01442912.
+[35]S2CID 119606974.
+
+[36]Korkine A., Zolotareff G. (1873).
+[37]"Sur les formes quadratiques".
+[38]Mathematische Annalen. 6 (3): 366–389.
+[39]doi:10.1007/BF01442795.
+[40]S2CID 120492026.
+
+[41]Korkine A., Zolotareff G. (1877).
+[42]"Sur les formes quadratiques positives".
+[43]Mathematische Annalen. 11 (2): 242–292.
+[44]doi:10.1007/BF01442667.
+[45]S2CID 121803621.
+
+[46]Zolotareff E. I. (1874).
+[47]"Sur la méthode d'intégration de M. Tchébychef".
+[48]Journal de Mathématiques Pures et Appliquées.
+[49]2e Série.
+[50]16: 161–188.
+Zolotareff E. I. (1880).
+[51]"Sur la théorie des nombres complexes".
+[52]Journal de Mathématiques Pures et Appliquées.
+[53]3e Série.
+[54]6: 51–84, 129–166.
+
+
+
+[55]== See also ==
+Zolotarev's lemma
+Zolotarev polynomials
+Elliptic filter also known as a Zolotarev filter.
+
+
+
+[56]== References ==
+
+
+== External links ==
+O'Connor, John J.; Robertson, Edmund F., "Yegor Ivanovich Zolotarev", MacTutor History of Mathematics Archive, University of St Andrews
